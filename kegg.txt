@@ -1,0 +1,32 @@
+ID                   Definition
+----------------------------------------------------------------------------------------------------
+ko04217              Necroptosis 
+ko04380              Osteoclast differentiation 
+ko04621              NOD-like receptor signaling pathway 
+ko04630              JAK-STAT signaling pathway 
+ko04658              Th1 and Th2 cell differentiation 
+ko04659              Th17 cell differentiation 
+ko05145              Toxoplasmosis 
+ko05160              Hepatitis C 
+ko05161              Hepatitis B 
+ko05162              Measles 
+ko05164              Influenza A 
+ko05165              Human papillomavirus infection 
+ko05167              Kaposi sarcoma-associated herpesvirus infection 
+ko05168              Herpes simplex virus 1 infection 
+ko05169              Epstein-Barr virus infection 
+map04217             Necroptosis 
+map04380             Osteoclast differentiation 
+map04621             NOD-like receptor signaling pathway 
+map04630             JAK-STAT signaling pathway 
+map04658             Th1 and Th2 cell differentiation 
+map04659             Th17 cell differentiation 
+map05145             Toxoplasmosis 
+map05160             Hepatitis C 
+map05161             Hepatitis B 
+map05162             Measles 
+map05164             Influenza A 
+map05165             Human papillomavirus infection 
+map05167             Kaposi sarcoma-associated herpesvirus infection 
+map05168             Herpes simplex virus 1 infection 
+map05169             Epstein-Barr virus infection 
